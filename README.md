@@ -1,2 +1,2 @@
-# newsgrid
+# NewsGrid
 My sample website
