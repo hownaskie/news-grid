@@ -1,2 +1,0 @@
-# NewsGrid
-My sample website
